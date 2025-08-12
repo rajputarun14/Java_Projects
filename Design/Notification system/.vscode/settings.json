@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "Lib/jakarta.activation-2.0.1.jar",
+        "/Users/arun/Desktop/DesktopItems/Java Projects/Design/Notification system/Lib/jakarta.mail-2.0.1.jar"
+    ]
+}
